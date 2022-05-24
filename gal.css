@@ -1,0 +1,44 @@
+#top{
+	font-size:30px;
+	size:20px;
+	color:white;
+	background-color:darkblue;
+	height:80px;
+	width:1770px;
+	float:top;
+	}
+#pic1{
+	float:left;
+	width:33.3%;
+	height:50px;
+	
+}
+#pic2{
+	float:right;
+	width:33.3%;
+	height:50px;
+
+}
+#pic3{
+	margin:0 auto;
+	width:33.3%;
+	height:50px;
+}
+#pic4{
+	padding-top:20%;
+	float:left;
+	width:33.3%;
+	height:50px;
+}
+#pic5{
+	padding-top:20%;
+	float:right;
+	width:33.3%;
+	height:50px;
+}
+#pic6{
+	padding-top:20%;
+	margin:0 auto;
+	width:33.3%;
+	height:50px;
+}

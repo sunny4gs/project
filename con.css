@@ -1,0 +1,19 @@
+#top{
+	font-size:30px;
+	size:20px;
+	color:white;
+	background-color:darkblue;
+	height:80px;
+	width:1905px;
+	float:top;
+	}
+#box{
+	background-color:lightgrey;
+	width:1905px;
+	height:1080px;
+	
+	
+	
+	}
+#cmt{
+	height:100px;

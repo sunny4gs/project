@@ -1,0 +1,79 @@
+#air1{
+	align:center;
+	padding-top:75px;
+}
+#log{
+	line-height:50px;
+	font-size:20px;
+	text-align:center;
+	word-spacing:120px;
+	float:left;
+	width:150px;
+	height:50px;
+	background-color:darkblue;
+	position:absolute;
+	top:53%;
+	left:68%;
+	}	
+#reg{
+	line-height:50px;
+	font-size:20px;
+	text-align:center;
+	word-spacing:120px;
+	float:left;
+	width:150px;
+	height:50px;
+	background-color:darkblue;
+	position:absolute;
+	top:53%;
+	left:57%;
+}
+	
+#con{
+	line-height:50px;
+	font-size:20px;
+	text-align:center;
+	word-spacing:120px;
+	float:left;
+	width:150px;
+	height:50px;
+	background-color:darkblue;
+	position:absolute;
+	top:53%;
+	left:45%;
+}
+	
+#gal{
+	line-height:50px;
+	font-size:20px;
+	text-align:center;
+	word-spacing:120px;
+	float:left;
+	width:100px;
+	height:50px;
+	background-color:darkblue;
+	position:absolute;
+	top:53%;
+	left:35%;
+}
+#home{
+	line-height:50px;
+	font-size:20px;
+	text-align:center;
+	word-spacing:120px;
+	float:left;
+	width:100px;
+	height:50px;
+	background-color:darkblue;
+	position:absolute;
+	top:53%;
+	left:25%;
+}
+#top{
+	align:left;
+	background-color:darkblue;
+	height:80px;
+	width:1905px;
+	float:top;
+}
+	
